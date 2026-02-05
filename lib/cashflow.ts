@@ -111,7 +111,7 @@ function getMonthlyRevenue(
     if (deal.timeline && deal.timeline.length > 0) {
       // Use timeline for monthly breakdown
       for (const entry of deal.timeline) {
-        const entryMonth = format(parseISO(entry.month), 'yyyy-MM')
+        const entryMonth = format(parseISO(entry.date), 'yyyy-MM')
         if (entryMonth === monthStr) {
           const multiplier = getProbabilityMultiplier(scenario, deal.probability)
           const amount = entry.amount * multiplier
@@ -281,7 +281,7 @@ export async function calculateTimelineData(
       // Check timeline entries
       if (deal.timeline && deal.timeline.length > 0) {
         for (const entry of deal.timeline) {
-          const entryMonth = format(parseISO(entry.month), 'yyyy-MM')
+          const entryMonth = format(parseISO(entry.date), 'yyyy-MM')
           const currentMonth = format(month, 'yyyy-MM')
           if (entryMonth === currentMonth) {
             dealAmount += entry.amount

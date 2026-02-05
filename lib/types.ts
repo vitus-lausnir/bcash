@@ -29,7 +29,7 @@ export interface Deal {
   contactPerson?: string
   
   // Relations
-  timeline: DealTimeline[]
+  timeline: Array<{ date: string; amount: number; note?: string }>
   history: DealHistory[]
   
   // Timestamps

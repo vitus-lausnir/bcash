@@ -12,10 +12,15 @@ export async function getCashflowProjections(
     const deals = await data.getAllDeals()
     const expenses = await data.getAllExpenses()
 
-    // Load timeline for each deal
+    // Load timeline and history for each deal if not already present
     for (const deal of deals) {
-      deal.timeline = await data.getDealTimeline(deal.id)
-      deal.history = await data.getDealHistory(deal.id)
+      // Only load from separate file if not already embedded
+      if (!deal.timeline || deal.timeline.length === 0) {
+        deal.timeline = await data.getDealTimeline(deal.id)
+      }
+      if (!deal.history || deal.history.length === 0) {
+        deal.history = await data.getDealHistory(deal.id)
+      }
     }
 
     // Calculate projections
@@ -38,9 +43,12 @@ export async function getTimelineData(monthsToProject: number = 12) {
     // Load deals
     const deals = await data.getAllDeals()
 
-    // Load timeline for each deal
+    // Load timeline for each deal if not already present
     for (const deal of deals) {
-      deal.timeline = await data.getDealTimeline(deal.id)
+      // Only load from separate file if not already embedded
+      if (!deal.timeline || deal.timeline.length === 0) {
+        deal.timeline = await data.getDealTimeline(deal.id)
+      }
     }
 
     // Calculate timeline data
