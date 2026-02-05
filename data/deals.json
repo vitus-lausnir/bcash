@@ -323,5 +323,85 @@
     "history": [],
     "createdAt": "2026-02-05T16:15:00.000Z",
     "updatedAt": "2026-02-05T16:15:00.000Z"
+  },
+  {
+    "id": "deal_thor_rentals",
+    "name": "Thor Rentals",
+    "stage": "confirmed",
+    "amount": 2500000,
+    "probability": 100,
+    "expectedCloseDate": "2026-02-01",
+    "notes": "Confirmed recurring revenue (500K/month until summer)",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-02-01",
+        "amount": 500000,
+        "note": "Feb invoice (already paid)"
+      },
+      {
+        "date": "2026-03-01",
+        "amount": 500000,
+        "note": "Mar monthly"
+      },
+      {
+        "date": "2026-04-01",
+        "amount": 500000,
+        "note": "Apr monthly"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 500000,
+        "note": "May monthly"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 500000,
+        "note": "Jun monthly"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_atlantsolla",
+    "name": "Atlantsolla",
+    "stage": "confirmed",
+    "amount": 2500000,
+    "probability": 100,
+    "expectedCloseDate": "2026-02-01",
+    "notes": "Confirmed recurring revenue (500K/month until summer)",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-02-01",
+        "amount": 500000,
+        "note": "Feb invoice (already paid)"
+      },
+      {
+        "date": "2026-03-01",
+        "amount": 500000,
+        "note": "Mar monthly"
+      },
+      {
+        "date": "2026-04-01",
+        "amount": 500000,
+        "note": "Apr monthly"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 500000,
+        "note": "May monthly"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 500000,
+        "note": "Jun monthly"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
   }
 ]
