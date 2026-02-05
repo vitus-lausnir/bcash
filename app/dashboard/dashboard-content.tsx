@@ -6,6 +6,7 @@ import { PipelineSummary } from '@/components/pipeline-summary'
 import { DealList } from '@/components/deal-list'
 import { AddDealModal } from '@/components/add-deal-modal'
 import { TimelineChart } from '@/components/timeline-chart'
+import { TimelineTable } from '@/components/timeline-table'
 import { CashflowChart } from '@/components/cashflow-chart'
 import { ExpenseList } from '@/components/expense-list'
 import { AddExpenseModal } from '@/components/add-expense-modal'
@@ -103,6 +104,11 @@ export function DashboardContent() {
       {/* Timeline Chart */}
       {timeline.length > 0 && (
         <TimelineChart data={timeline} />
+      )}
+
+      {/* Timeline Table */}
+      {timeline.length > 0 && (
+        <TimelineTable data={timeline} />
       )}
 
       {/* Cashflow Chart */}
