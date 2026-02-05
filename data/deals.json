@@ -403,5 +403,175 @@
     "history": [],
     "createdAt": "2026-02-05T17:07:00.000Z",
     "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_hringras_project",
+    "name": "Hringras - Initial Project",
+    "stage": "confirmed",
+    "amount": 3000000,
+    "probability": 100,
+    "expectedCloseDate": "2026-02-17",
+    "notes": "Confirmed 3M project. Invoicing 1.5M Feb 17 + 1.5M for Mar 8 payment.",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-02-17",
+        "amount": 1500000,
+        "note": "First half - invoice Feb 17"
+      },
+      {
+        "date": "2026-03-08",
+        "amount": 1500000,
+        "note": "Second half - payment Mar 8"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_hringras_recurring",
+    "name": "Hringras - Monthly Recurring",
+    "stage": "confirmed",
+    "amount": 9000000,
+    "probability": 100,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "Confirmed 1M/month Apr-Dec 2026 (9 months)",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 1000000,
+        "note": "Apr monthly"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 1000000,
+        "note": "May monthly"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 1000000,
+        "note": "Jun monthly"
+      },
+      {
+        "date": "2026-07-01",
+        "amount": 1000000,
+        "note": "Jul monthly"
+      },
+      {
+        "date": "2026-08-01",
+        "amount": 1000000,
+        "note": "Aug monthly"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": 1000000,
+        "note": "Sep monthly"
+      },
+      {
+        "date": "2026-10-01",
+        "amount": 1000000,
+        "note": "Oct monthly"
+      },
+      {
+        "date": "2026-11-01",
+        "amount": 1000000,
+        "note": "Nov monthly"
+      },
+      {
+        "date": "2026-12-01",
+        "amount": 1000000,
+        "note": "Dec monthly"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_grindavik",
+    "name": "Grindavik Seafood",
+    "stage": "confirmed",
+    "amount": 2400000,
+    "probability": 100,
+    "expectedCloseDate": "2026-02-17",
+    "notes": "Confirmed 2.4M project. Invoicing 1.2M Feb 17 + 1.2M for Mar 8 payment.",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-02-17",
+        "amount": 1200000,
+        "note": "First half - invoice Feb 17"
+      },
+      {
+        "date": "2026-03-08",
+        "amount": 1200000,
+        "note": "Second half - payment Mar 8"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_sbarro",
+    "name": "Sbarro",
+    "stage": "confirmed",
+    "amount": 2100000,
+    "probability": 100,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "Confirmed 700K/month Apr-Jun 2026 (3 months)",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 700000,
+        "note": "Apr monthly"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 700000,
+        "note": "May monthly"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 700000,
+        "note": "Jun monthly"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
+  },
+  {
+    "id": "deal_expectus",
+    "name": "Expectus",
+    "stage": "confirmed",
+    "amount": 1500000,
+    "probability": 100,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "Confirmed 500K/month Apr-Jun 2026 (3 months)",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 500000,
+        "note": "Apr monthly"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 500000,
+        "note": "May monthly"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 500000,
+        "note": "Jun monthly"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T17:07:00.000Z",
+    "updatedAt": "2026-02-05T17:07:00.000Z"
   }
 ]
