@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "expense_1",
+    "name": "Payroll - Engineering",
+    "amount": 150000,
+    "frequency": "monthly",
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "category": "Payroll",
+    "notes": "Monthly engineering salaries",
+    "createdAt": "2026-02-05T14:00:00.000Z",
+    "updatedAt": "2026-02-05T14:00:00.000Z"
+  },
+  {
+    "id": "expense_2",
+    "name": "Office Rent",
+    "amount": 50000,
+    "frequency": "monthly",
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "category": "Office",
+    "notes": "Monthly office space rent",
+    "createdAt": "2026-02-05T14:00:00.000Z",
+    "updatedAt": "2026-02-05T14:00:00.000Z"
+  }
+]
