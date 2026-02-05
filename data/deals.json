@@ -2,11 +2,11 @@
   {
     "id": "deal_arctic_fish",
     "name": "Arctic Fish",
-    "stage": "very_likely",
+    "stage": "lost",
     "amount": 1480000,
     "probability": 80,
     "expectedCloseDate": "2026-04-01",
-    "notes": "Very likely per Bjorn (2026-02-05). Previously long shot, upgraded to very likely.",
+    "notes": "Lost per Bjorn (2026-02-05). Previously very likely.",
     "contactPerson": "",
     "timeline": [
       {
@@ -57,7 +57,7 @@
     ],
     "history": [],
     "createdAt": "2026-02-05T15:35:00.000Z",
-    "updatedAt": "2026-02-05T15:35:00.000Z"
+    "updatedAt": "2026-02-05T16:09:00.000Z"
   },
   {
     "id": "deal_coripharma",
