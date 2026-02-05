@@ -1,72 +1,247 @@
 [
   {
-    "name": "Arctic Fish Q2",
+    "id": "deal_arctic_fish",
+    "name": "Arctic Fish",
     "stage": "very_likely",
     "amount": 1480000,
     "probability": 80,
     "expectedCloseDate": "2026-04-01",
-    "notes": "Very likely per Bjorn (2026-02-05)",
-    "contactPerson": "Bjorn",
-    "id": "deal_oOOGj7FIJvvQBonOsSdgd",
-    "timeline": [],
+    "notes": "Very likely per Bjorn (2026-02-05). Previously long shot, upgraded to very likely.",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 1000000,
+        "note": "Initial invoice"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-07-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-08-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-10-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-11-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      },
+      {
+        "date": "2026-12-01",
+        "amount": 60000,
+        "note": "Monthly recurring"
+      }
+    ],
     "history": [],
-    "createdAt": "2026-02-05T14:07:46.739Z",
-    "updatedAt": "2026-02-05T14:07:46.740Z"
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
   },
   {
+    "id": "deal_coripharma",
     "name": "Coripharma",
-    "stage": "hot",
+    "stage": "long_shot",
     "amount": 1000000,
-    "probability": 60,
+    "probability": 20,
     "expectedCloseDate": "2026-05-01",
-    "notes": "Positive meeting, awaiting proposal review",
-    "contactPerson": "Sarah",
-    "id": "deal_FNYi0Zw9zph2duRQPdi25",
-    "timeline": [],
+    "notes": "High value, low probability",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-05-01",
+        "amount": 500000,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 500000,
+        "note": "Second payment"
+      }
+    ],
     "history": [],
-    "createdAt": "2026-02-05T14:08:00.208Z",
-    "updatedAt": "2026-02-05T14:08:00.208Z"
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
   },
   {
-    "name": "Ístak",
+    "id": "deal_idnmark",
+    "name": "Idnmark",
     "stage": "long_shot",
     "amount": 500000,
     "probability": 20,
-    "expectedCloseDate": "2026-06-01",
-    "notes": "Initial conversation, need follow-up",
-    "contactPerson": "Jon",
-    "id": "deal_uIArmxcpA-pibZqTYLBbH",
-    "timeline": [],
+    "expectedCloseDate": "2026-05-01",
+    "notes": "",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-05-01",
+        "amount": 250000,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 250000,
+        "note": "Second payment"
+      }
+    ],
     "history": [],
-    "createdAt": "2026-02-05T14:08:00.209Z",
-    "updatedAt": "2026-02-05T14:08:00.209Z"
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
   },
   {
-    "name": "Idnmark Pharmaceuticals",
-    "stage": "medium",
-    "amount": 750000,
-    "probability": 40,
-    "expectedCloseDate": "2026-05-15",
-    "notes": "Second meeting scheduled",
-    "contactPerson": "Anna",
-    "id": "deal_8-Hne0px8jPcgId7IemPS",
-    "timeline": [],
+    "id": "deal_straeto",
+    "name": "Straeto",
+    "stage": "long_shot",
+    "amount": 500000,
+    "probability": 20,
+    "expectedCloseDate": "2026-05-01",
+    "notes": "",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-05-01",
+        "amount": 250000,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 250000,
+        "note": "Second payment"
+      }
+    ],
     "history": [],
-    "createdAt": "2026-02-05T14:08:00.210Z",
-    "updatedAt": "2026-02-05T14:08:00.210Z"
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
   },
   {
-    "name": "Valitor Q2",
-    "stage": "very_likely",
-    "amount": 680000,
-    "probability": 80,
-    "expectedCloseDate": "2026-04-15",
-    "notes": "Verbal commitment received",
-    "contactPerson": "Magnus",
-    "id": "deal_Kaa3DhURK6gcsd1QqJvyU",
-    "timeline": [],
+    "id": "deal_stolpi",
+    "name": "Stólpi",
+    "stage": "long_shot",
+    "amount": 1000000,
+    "probability": 20,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "Could be big but low probability",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 333333,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 333333,
+        "note": "Second payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 333334,
+        "note": "Third payment"
+      }
+    ],
     "history": [],
-    "createdAt": "2026-02-05T14:08:00.210Z",
-    "updatedAt": "2026-02-05T14:08:00.210Z"
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
+  },
+  {
+    "id": "deal_stora_bilasalan",
+    "name": "Stora bilasalan",
+    "stage": "long_shot",
+    "amount": 500000,
+    "probability": 20,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "amount": 166667,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-05-01",
+        "amount": 166667,
+        "note": "Second payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 166666,
+        "note": "Third payment"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
+  },
+  {
+    "id": "deal_atlascarwash",
+    "name": "AtlasCarWash",
+    "stage": "long_shot",
+    "amount": 2000000,
+    "probability": 20,
+    "expectedCloseDate": "2026-05-01",
+    "notes": "",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-05-01",
+        "amount": 1000000,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 1000000,
+        "note": "Second payment"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
+  },
+  {
+    "id": "deal_islandspostur",
+    "name": "Islandspostur",
+    "stage": "long_shot",
+    "amount": 600000,
+    "probability": 20,
+    "expectedCloseDate": "2026-05-01",
+    "notes": "",
+    "contactPerson": "",
+    "timeline": [
+      {
+        "date": "2026-05-01",
+        "amount": 300000,
+        "note": "First payment"
+      },
+      {
+        "date": "2026-06-01",
+        "amount": 300000,
+        "note": "Second payment"
+      }
+    ],
+    "history": [],
+    "createdAt": "2026-02-05T15:35:00.000Z",
+    "updatedAt": "2026-02-05T15:35:00.000Z"
   }
 ]
