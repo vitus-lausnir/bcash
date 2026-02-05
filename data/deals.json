@@ -2,11 +2,11 @@
   {
     "id": "deal_arctic_fish",
     "name": "Arctic Fish",
-    "stage": "very_likely",
+    "stage": "lost",
     "amount": 1480000,
     "probability": 80,
     "expectedCloseDate": "2026-04-01",
-    "notes": "Lost per Bjorn (2026-02-05). Previously very likely.",
+    "notes": "LOST per Bjorn (2026-02-05 16:09). Previously very likely.",
     "contactPerson": "",
     "timeline": [
       {
