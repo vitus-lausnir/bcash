@@ -1,5 +1,41 @@
 [
   {
+    "id": "expense_rent_fixed",
+    "name": "Rent + Fixed Costs",
+    "amount": 500000,
+    "frequency": "monthly",
+    "category": "Fixed Costs",
+    "startDate": "2026-02-01",
+    "endDate": null,
+    "notes": "Rent (320K) + other fixed expenses (180K)",
+    "createdAt": "2026-02-05T16:07:00.000Z",
+    "updatedAt": "2026-02-05T16:07:00.000Z"
+  },
+  {
+    "id": "expense_salaries",
+    "name": "Salaries (Björn + Rúnar)",
+    "amount": 2750000,
+    "frequency": "monthly",
+    "category": "Payroll",
+    "startDate": "2026-02-18",
+    "endDate": null,
+    "notes": "Monthly payroll for owners (~2.75M net)",
+    "createdAt": "2026-02-05T16:07:00.000Z",
+    "updatedAt": "2026-02-05T16:07:00.000Z"
+  },
+  {
+    "id": "expense_taxes_pension",
+    "name": "Taxes & Pension",
+    "amount": 1382000,
+    "frequency": "monthly",
+    "category": "Payroll",
+    "startDate": "2026-02-18",
+    "endDate": null,
+    "notes": "Monthly tax and pension obligations",
+    "createdAt": "2026-02-05T16:07:00.000Z",
+    "updatedAt": "2026-02-05T16:07:00.000Z"
+  },
+  {
     "id": "expense_sg_buyout",
     "name": "SG Owner Buyout",
     "amount": 1000000,
@@ -8,8 +44,8 @@
     "startDate": "2026-02-18",
     "endDate": null,
     "notes": "One-time payment to remove previous owner",
-    "createdAt": "2026-02-05T15:35:00.000Z",
-    "updatedAt": "2026-02-05T15:35:00.000Z"
+    "createdAt": "2026-02-05T16:07:00.000Z",
+    "updatedAt": "2026-02-05T16:07:00.000Z"
   },
   {
     "id": "expense_tomas_buyout",
@@ -20,7 +56,7 @@
     "startDate": "2026-02-18",
     "endDate": null,
     "notes": "One-time payment to remove previous owner",
-    "createdAt": "2026-02-05T15:35:00.000Z",
-    "updatedAt": "2026-02-05T15:35:00.000Z"
+    "createdAt": "2026-02-05T16:07:00.000Z",
+    "updatedAt": "2026-02-05T16:07:00.000Z"
   }
 ]
