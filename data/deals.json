@@ -518,10 +518,10 @@
     "id": "deal_sbarro",
     "name": "Sbarro",
     "stage": "confirmed",
-    "amount": 2100000,
+    "amount": 6300000,
     "probability": 100,
     "expectedCloseDate": "2026-04-01",
-    "notes": "Confirmed 700K/month Apr-Jun 2026 (3 months)",
+    "notes": "Confirmed 700K/month Apr-Dec 2026 (9 months)",
     "contactPerson": "",
     "timeline": [
       {
@@ -538,6 +538,36 @@
         "date": "2026-06-01",
         "amount": 700000,
         "note": "Jun monthly"
+      },
+      {
+        "date": "2026-07-01",
+        "amount": 700000,
+        "note": "Jul monthly"
+      },
+      {
+        "date": "2026-08-01",
+        "amount": 700000,
+        "note": "Aug monthly"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": 700000,
+        "note": "Sep monthly"
+      },
+      {
+        "date": "2026-10-01",
+        "amount": 700000,
+        "note": "Oct monthly"
+      },
+      {
+        "date": "2026-11-01",
+        "amount": 700000,
+        "note": "Nov monthly"
+      },
+      {
+        "date": "2026-12-01",
+        "amount": 700000,
+        "note": "Dec monthly"
       }
     ],
     "history": [],
