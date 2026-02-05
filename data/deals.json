@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Arctic Fish Q2",
+    "stage": "very_likely",
+    "amount": 1480000,
+    "probability": 80,
+    "expectedCloseDate": "2026-04-01",
+    "notes": "Very likely per Bjorn (2026-02-05)",
+    "contactPerson": "Bjorn",
+    "id": "deal_oOOGj7FIJvvQBonOsSdgd",
+    "timeline": [],
+    "history": [],
+    "createdAt": "2026-02-05T14:07:46.739Z",
+    "updatedAt": "2026-02-05T14:07:46.740Z"
+  },
+  {
+    "name": "Coripharma",
+    "stage": "hot",
+    "amount": 1000000,
+    "probability": 60,
+    "expectedCloseDate": "2026-05-01",
+    "notes": "Positive meeting, awaiting proposal review",
+    "contactPerson": "Sarah",
+    "id": "deal_FNYi0Zw9zph2duRQPdi25",
+    "timeline": [],
+    "history": [],
+    "createdAt": "2026-02-05T14:08:00.208Z",
+    "updatedAt": "2026-02-05T14:08:00.208Z"
+  },
+  {
+    "name": "Ístak",
+    "stage": "long_shot",
+    "amount": 500000,
+    "probability": 20,
+    "expectedCloseDate": "2026-06-01",
+    "notes": "Initial conversation, need follow-up",
+    "contactPerson": "Jon",
+    "id": "deal_uIArmxcpA-pibZqTYLBbH",
+    "timeline": [],
+    "history": [],
+    "createdAt": "2026-02-05T14:08:00.209Z",
+    "updatedAt": "2026-02-05T14:08:00.209Z"
+  },
+  {
+    "name": "Idnmark Pharmaceuticals",
+    "stage": "medium",
+    "amount": 750000,
+    "probability": 40,
+    "expectedCloseDate": "2026-05-15",
+    "notes": "Second meeting scheduled",
+    "contactPerson": "Anna",
+    "id": "deal_8-Hne0px8jPcgId7IemPS",
+    "timeline": [],
+    "history": [],
+    "createdAt": "2026-02-05T14:08:00.210Z",
+    "updatedAt": "2026-02-05T14:08:00.210Z"
+  },
+  {
+    "name": "Valitor Q2",
+    "stage": "very_likely",
+    "amount": 680000,
+    "probability": 80,
+    "expectedCloseDate": "2026-04-15",
+    "notes": "Verbal commitment received",
+    "contactPerson": "Magnus",
+    "id": "deal_Kaa3DhURK6gcsd1QqJvyU",
+    "timeline": [],
+    "history": [],
+    "createdAt": "2026-02-05T14:08:00.210Z",
+    "updatedAt": "2026-02-05T14:08:00.210Z"
+  }
+]

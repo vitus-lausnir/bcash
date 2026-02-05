@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "confirmed",
+    "defaultProbability": 100,
+    "displayOrder": 1,
+    "color": "#10b981"
+  },
+  {
+    "stage": "very_likely",
+    "defaultProbability": 80,
+    "displayOrder": 2,
+    "color": "#3b82f6"
+  },
+  {
+    "stage": "hot",
+    "defaultProbability": 60,
+    "displayOrder": 3,
+    "color": "#f59e0b"
+  },
+  {
+    "stage": "medium",
+    "defaultProbability": 40,
+    "displayOrder": 4,
+    "color": "#8b5cf6"
+  },
+  {
+    "stage": "long_shot",
+    "defaultProbability": 20,
+    "displayOrder": 5,
+    "color": "#6b7280"
+  },
+  {
+    "stage": "lost",
+    "defaultProbability": 0,
+    "displayOrder": 6,
+    "color": "#ef4444"
+  }
+]

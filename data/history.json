@@ -1,0 +1,32 @@
+[
+  {
+    "dealId": "deal_oOOGj7FIJvvQBonOsSdgd",
+    "toStage": "very_likely",
+    "id": "history_nUleLwuivoJ28STxMti4o",
+    "changedAt": "2026-02-05T14:07:46.740Z"
+  },
+  {
+    "dealId": "deal_FNYi0Zw9zph2duRQPdi25",
+    "toStage": "hot",
+    "id": "history_rYVpxwkVbAOLCiKCzYt1k",
+    "changedAt": "2026-02-05T14:08:00.209Z"
+  },
+  {
+    "dealId": "deal_uIArmxcpA-pibZqTYLBbH",
+    "toStage": "long_shot",
+    "id": "history_zMG76-FljgBWtPhV4hxOp",
+    "changedAt": "2026-02-05T14:08:00.209Z"
+  },
+  {
+    "dealId": "deal_8-Hne0px8jPcgId7IemPS",
+    "toStage": "medium",
+    "id": "history_1HjwILteS6FPMXRxnf5sG",
+    "changedAt": "2026-02-05T14:08:00.210Z"
+  },
+  {
+    "dealId": "deal_Kaa3DhURK6gcsd1QqJvyU",
+    "toStage": "very_likely",
+    "id": "history_4-Y8Xsosl4WHr8OoxMwio",
+    "changedAt": "2026-02-05T14:08:00.210Z"
+  }
+]
